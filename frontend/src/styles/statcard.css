@@ -1,0 +1,60 @@
+.stat-card {
+    background: white;
+    border-radius: 14px;
+    padding: 22px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, .08);
+    transition: .3s;
+    border-left: 6px solid #2563eb;
+}
+
+.stat-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, .15);
+}
+
+.stat-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 18px;
+}
+
+.stat-icon {
+    font-size: 30px;
+}
+
+.stat-title {
+    font-size: 15px;
+    color: #6b7280;
+    font-weight: 600;
+}
+
+.stat-value {
+    font-size: 34px;
+    font-weight: bold;
+    color: #111827;
+}
+
+.total {
+    border-left-color: #2563eb;
+}
+
+.pending {
+    border-left-color: #f59e0b;
+}
+
+.running {
+    border-left-color: #0ea5e9;
+}
+
+.completed {
+    border-left-color: #22c55e;
+}
+
+.failed {
+    border-left-color: #ef4444;
+}
+
+.average {
+    border-left-color: #8b5cf6;
+}
