@@ -671,7 +671,7 @@ Passionate about Backend Development, Distributed Systems, Cloud Computing, and 
 ### Connect
 
 - GitHub: https://github.com/AprajitRoshan
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: https://www.linkedin.com/in/aprajit-roshan-021519366/
 
 ---
 
