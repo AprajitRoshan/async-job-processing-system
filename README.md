@@ -577,46 +577,44 @@ Displays:
 # 📸 Screenshots
 
 ## Dashboard
+![Dashboard Running](images/dashboard.png)
 
-> Add Dashboard Screenshot Here
-
----
-
-## Queue Statistics
-
-> Add Queue Statistics Screenshot Here
 
 ---
 
-## Job Creation
+## 🚀 Dashboard (Queue Running)
 
-> Add Job Creation Form Screenshot Here
-
----
-
-## Job Table
-
-> Add Job Table Screenshot Here
+![Dashboard Running](images/dashboard-running.png)
 
 ---
 
-## Swagger UI
+## 📊 Dashboard (Completed)
 
-> Add Swagger Screenshot Here
-
----
-
-## Celery Worker
-
-> Add Celery Worker Screenshot Here
+![Dashboard Completed](images/dashboard-completed-page1.png)
 
 ---
 
-## PostgreSQL Database
+## 📄 Dashboard (Page 2)
 
-> Add PostgreSQL Screenshot Here
+![Dashboard Page 2](images/dashboard-completed-page2.png)
 
 ---
+
+## 📖 Swagger API Documentation
+
+![Swagger UI](images/swagger-ui.png)
+
+---
+
+## ⚙️ Celery Worker Logs
+
+![Celery Worker](images/celery-worker.png)
+
+---
+
+## 🗄️ PostgreSQL Database
+
+![PostgreSQL](images/pgadmin.png)
 
 # 🚀 Future Improvements
 
@@ -673,7 +671,7 @@ Passionate about Backend Development, Distributed Systems, Cloud Computing, and 
 ### Connect
 
 - GitHub: https://github.com/AprajitRoshan
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: https://www.linkedin.com/in/aprajit-roshan-021519366/
 
 ---
 
